@@ -1,1 +1,1 @@
-# very-simple-wiki
+# simple-wiki
